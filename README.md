@@ -12,105 +12,15 @@ Uploads to CF/MR will come later. Please bear with us in the meantime.
 
 Includes work in progress and planned changes.
 
-### Additional Enchanted Miner Rescaled
-
-**Changes:**
-
-- Migration to Cleanroom / Java 25 + Scala 3
-- Migration to ModularUI
-- Backports of new features and bug fixes
-
-[Repository](https://github.com/Sumire-Labs/AEM-Rescaled):
-
-- [Issues](https://github.com/Sumire-Labs/AEM-Rescaled/issues)
-
-Original:
-
-- [Additional Enchanted Miner](https://github.com/Kotori316/QuarryPlus)
-
-### CBMultipart Rescaled
-
-[Repository](https://github.com/Sumire-Labs/CBMultipart-Rescaled):
-
-- [Issues](https://github.com/Sumire-Labs/CBMultipart-Rescaled/issues)
-
-Original:
-
-- [CBMultipart](https://github.com/TheCBProject/CBMultipart)
-
-- Migration to Cleanroom / Java 25 / Scala 3.x
-
-### Project Red Rescaled
-
-**Changes:**
-
-- Migration to Cleanroom / Java 25 + Scala 3
-- Integration of all modules, including Core, Integration, Illumination, Expansion, Fabrication, Exploration, and Compat
-- Backports of new features and bug fixes
-
-[Repository](https://github.com/Sumire-Labs/ProjectRed-Rescaled):
-
-- [Issues](https://github.com/Sumire-Labs/ProjectRed-Rescaled/issues)
-
-Original:
-
-- [Project Red](https://github.com/MrTJP/ProjectRed)
-
-### MrTJPCore Rescaled
-
-**Changes:**
-
-- Migration to Cleanroom / Java 25 + Scala 3
-
-[Repository](https://github.com/Sumire-Labs/MrTJPCore-Rescaled):
-
-- [Issues](https://github.com/Sumire-Labs/MrTJPCore-Rescaled/issues)
-
-Original:
-
-- [MrTJPCore](https://github.com/MrTJP/MrTJPCore)
-
-### bdLib Rescaled
-
-**Changes:**
-
-- Migration to Cleanroom / Java 25 + Scala 3
-
-[Repository](https://github.com/Sumire-Labs/bdLib-Rescaled):
-
-- [Issues](https://github.com/Sumire-Labs/bdLib-Rescaled/issues)
-
-Original:
-
-- [bdLib](https://github.com/bdew-minecraft/bdlib)
-
-### AE2Stuff Unofficial Rescaled
-
-**Changes:**
-
-- Migration to Cleanroom / Java 25 + Scala 3
-
-[Repository](https://github.com/Sumire-Labs/AE2Stuff-Unofficial-Rescaled):
-
-- [Issues](https://github.com/Sumire-Labs/AE2Stuff-Unofficial-Rescaled/issues)
-
-Original:
-
-- [AE2 Stuff](https://github.com/bdew-minecraft/ae2stuff)
-
-### AcademyCraft-UES Rescaled
-
-**Changes:**
-
-- Migration to Cleanroom / Java 25 + Scala 3
-
-[Repository](https://github.com/Sumire-Labs/AcademyCraft-UES-Rescaled):
-
-- [Issues](https://github.com/Sumire-Labs/AcademyCraft-UES-Rescaled/issues)
-
-Original:
-
-- [AcademyCraft](https://github.com/LambdaInnovation/AcademyCraft)
+| Mod | Changes | Issues | Original |
+| --- | --- | --- | --- |
+| [Additional Enchanted Miner Rescaled](https://github.com/Sumire-Labs/AEM-Rescaled) | Migration to Cleanroom / Java 25 + Scala 3<br>Migration to ModularUI<br>Backports of new features and bug fixes | [Issues](https://github.com/Sumire-Labs/AEM-Rescaled/issues) | [Additional Enchanted Miner](https://github.com/Kotori316/QuarryPlus) |
+| [CBMultipart Rescaled](https://github.com/Sumire-Labs/CBMultipart-Rescaled) | Migration to Cleanroom / Java 25 / Scala 3.x | [Issues](https://github.com/Sumire-Labs/CBMultipart-Rescaled/issues) | [CBMultipart](https://github.com/TheCBProject/CBMultipart) |
+| [Project Red Rescaled](https://github.com/Sumire-Labs/ProjectRed-Rescaled) | Migration to Cleanroom / Java 25 + Scala 3<br>Integration of all modules, including Core, Integration, Illumination, Expansion, Fabrication, Exploration, and Compat<br>Backports of new features and bug fixes | [Issues](https://github.com/Sumire-Labs/ProjectRed-Rescaled/issues) | [Project Red](https://github.com/MrTJP/ProjectRed) |
+| [MrTJPCore Rescaled](https://github.com/Sumire-Labs/MrTJPCore-Rescaled) | Migration to Cleanroom / Java 25 + Scala 3 | [Issues](https://github.com/Sumire-Labs/MrTJPCore-Rescaled/issues) | [MrTJPCore](https://github.com/MrTJP/MrTJPCore) |
+| [bdLib Rescaled](https://github.com/Sumire-Labs/bdLib-Rescaled) | Migration to Cleanroom / Java 25 + Scala 3 | [Issues](https://github.com/Sumire-Labs/bdLib-Rescaled/issues) | [bdLib](https://github.com/bdew-minecraft/bdlib) |
+| [AE2Stuff Unofficial Rescaled](https://github.com/Sumire-Labs/AE2Stuff-Unofficial-Rescaled) | Migration to Cleanroom / Java 25 + Scala 3 | [Issues](https://github.com/Sumire-Labs/AE2Stuff-Unofficial-Rescaled/issues) | [AE2 Stuff](https://github.com/bdew-minecraft/ae2stuff) |
+| [AcademyCraft-UES Rescaled](https://github.com/Sumire-Labs/AcademyCraft-UES-Rescaled) | Migration to Cleanroom / Java 25 + Scala 3 | [Issues](https://github.com/Sumire-Labs/AcademyCraft-UES-Rescaled/issues) | [AcademyCraft](https://github.com/LambdaInnovation/AcademyCraft) |
 
 ## License
 

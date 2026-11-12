@@ -12,105 +12,15 @@ CF/MRへのアップロードはそのうち行いますので。しばらくの
 
 対応中および予定している作業を含みます。
 
-### Additional Enchanted Miner Rescaled
-
-**変更点:**
-
-- Cleanroom / Java 25 + Scala 3への移行
-- ModularUIへの移行
-- 新機能・バグ修正のバックポート
-
-[リポジトリ](https://github.com/Sumire-Labs/AEM-Rescaled):
-
-- [Issues](https://github.com/Sumire-Labs/AEM-Rescaled/issues)
-
-オリジナル：
-
-- [Additional Enchanted Miner](https://github.com/Kotori316/QuarryPlus)
-
-### CBMultipart Rescaled
-
-[リポジトリ](https://github.com/Sumire-Labs/CBMultipart-Rescaled):
-
-- [Issues](https://github.com/Sumire-Labs/CBMultipart-Rescaled/issues)
-
-オリジナル：
-
-- [CBMultipart](https://github.com/TheCBProject/CBMultipart)
-
-- Cleanroom / Java 25 / Scala 3.xへの移行
-
-### Project Red Rescaled
-
-**変更点:**
-
-- Cleanroom / Java 25 + Scala 3への移行
-- Core、Integration、Illumination、Expansion、Fabrication、Exploration、Compatなど、各モジュールを統合
-- 新機能・バグ修正のバックポート
-
-[リポジトリ](https://github.com/Sumire-Labs/ProjectRed-Rescaled):
-
-- [Issues](https://github.com/Sumire-Labs/ProjectRed-Rescaled/issues)
-
-オリジナル：
-
-- [Project Red](https://github.com/MrTJP/ProjectRed)
-
-### MrTJPCore Rescaled
-
-**変更点:**
-
-- Cleanroom / Java 25 + Scala 3への移行
-
-[リポジトリ](https://github.com/Sumire-Labs/MrTJPCore-Rescaled):
-
-- [Issues](https://github.com/Sumire-Labs/MrTJPCore-Rescaled/issues)
-
-オリジナル：
-
-- [MrTJPCore](https://github.com/MrTJP/MrTJPCore)
-
-### bdLib Rescaled
-
-**変更点:**
-
-- Cleanroom / Java 25 + Scala 3への移行
-
-[リポジトリ](https://github.com/Sumire-Labs/bdLib-Rescaled):
-
-- [Issues](https://github.com/Sumire-Labs/bdLib-Rescaled/issues)
-
-オリジナル：
-
-- [bdLib](https://github.com/bdew-minecraft/bdlib)
-
-### AE2Stuff Unofficial Rescaled
-
-**変更点:**
-
-- Cleanroom / Java 25 + Scala 3への移行
-
-[リポジトリ](https://github.com/Sumire-Labs/AE2Stuff-Unofficial-Rescaled):
-
-- [Issues](https://github.com/Sumire-Labs/AE2Stuff-Unofficial-Rescaled/issues)
-
-オリジナル：
-
-- [AE2 Stuff](https://github.com/bdew-minecraft/ae2stuff)
-
-### AcademyCraft-UES Rescaled
-
-**変更点:**
-
-- Cleanroom / Java 25 + Scala 3への移行
-
-[リポジトリ](https://github.com/Sumire-Labs/AcademyCraft-UES-Rescaled):
-
-- [Issues](https://github.com/Sumire-Labs/AcademyCraft-UES-Rescaled/issues)
-
-オリジナル：
-
-- [AcademyCraft](https://github.com/LambdaInnovation/AcademyCraft)
+| Mod | 変更点 | Issues | オリジナル |
+| --- | --- | --- | --- |
+| [Additional Enchanted Miner Rescaled](https://github.com/Sumire-Labs/AEM-Rescaled) | Cleanroom / Java 25 + Scala 3への移行<br>ModularUIへの移行<br>新機能・バグ修正のバックポート | [Issues](https://github.com/Sumire-Labs/AEM-Rescaled/issues) | [Additional Enchanted Miner](https://github.com/Kotori316/QuarryPlus) |
+| [CBMultipart Rescaled](https://github.com/Sumire-Labs/CBMultipart-Rescaled) | Cleanroom / Java 25 / Scala 3.xへの移行 | [Issues](https://github.com/Sumire-Labs/CBMultipart-Rescaled/issues) | [CBMultipart](https://github.com/TheCBProject/CBMultipart) |
+| [Project Red Rescaled](https://github.com/Sumire-Labs/ProjectRed-Rescaled) | Cleanroom / Java 25 + Scala 3への移行<br>Core、Integration、Illumination、Expansion、Fabrication、Exploration、Compatなど、各モジュールを統合<br>新機能・バグ修正のバックポート | [Issues](https://github.com/Sumire-Labs/ProjectRed-Rescaled/issues) | [Project Red](https://github.com/MrTJP/ProjectRed) |
+| [MrTJPCore Rescaled](https://github.com/Sumire-Labs/MrTJPCore-Rescaled) | Cleanroom / Java 25 + Scala 3への移行 | [Issues](https://github.com/Sumire-Labs/MrTJPCore-Rescaled/issues) | [MrTJPCore](https://github.com/MrTJP/MrTJPCore) |
+| [bdLib Rescaled](https://github.com/Sumire-Labs/bdLib-Rescaled) | Cleanroom / Java 25 + Scala 3への移行 | [Issues](https://github.com/Sumire-Labs/bdLib-Rescaled/issues) | [bdLib](https://github.com/bdew-minecraft/bdlib) |
+| [AE2Stuff Unofficial Rescaled](https://github.com/Sumire-Labs/AE2Stuff-Unofficial-Rescaled) | Cleanroom / Java 25 + Scala 3への移行 | [Issues](https://github.com/Sumire-Labs/AE2Stuff-Unofficial-Rescaled/issues) | [AE2 Stuff](https://github.com/bdew-minecraft/ae2stuff) |
+| [AcademyCraft-UES Rescaled](https://github.com/Sumire-Labs/AcademyCraft-UES-Rescaled) | Cleanroom / Java 25 + Scala 3への移行 | [Issues](https://github.com/Sumire-Labs/AcademyCraft-UES-Rescaled/issues) | [AcademyCraft](https://github.com/LambdaInnovation/AcademyCraft) |
 
 ## ライセンス
 

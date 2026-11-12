@@ -12,105 +12,15 @@
 
 包含正在进行及计划中的工作。
 
-### Additional Enchanted Miner Rescaled
-
-**变更内容：**
-
-- 迁移至 Cleanroom / Java 25 + Scala 3
-- 迁移至 ModularUI
-- 向后移植新功能和错误修复
-
-[仓库](https://github.com/Sumire-Labs/AEM-Rescaled):
-
-- [Issues](https://github.com/Sumire-Labs/AEM-Rescaled/issues)
-
-原版：
-
-- [Additional Enchanted Miner](https://github.com/Kotori316/QuarryPlus)
-
-### CBMultipart Rescaled
-
-[仓库](https://github.com/Sumire-Labs/CBMultipart-Rescaled):
-
-- [Issues](https://github.com/Sumire-Labs/CBMultipart-Rescaled/issues)
-
-原版：
-
-- [CBMultipart](https://github.com/TheCBProject/CBMultipart)
-
-- 迁移至 Cleanroom / Java 25 / Scala 3.x
-
-### Project Red Rescaled
-
-**变更内容：**
-
-- 迁移至 Cleanroom / Java 25 + Scala 3
-- 整合 Core、Integration、Illumination、Expansion、Fabrication、Exploration、Compat 等各个模块
-- 向后移植新功能和错误修复
-
-[仓库](https://github.com/Sumire-Labs/ProjectRed-Rescaled):
-
-- [Issues](https://github.com/Sumire-Labs/ProjectRed-Rescaled/issues)
-
-原版：
-
-- [Project Red](https://github.com/MrTJP/ProjectRed)
-
-### MrTJPCore Rescaled
-
-**变更内容：**
-
-- 迁移至 Cleanroom / Java 25 + Scala 3
-
-[仓库](https://github.com/Sumire-Labs/MrTJPCore-Rescaled):
-
-- [Issues](https://github.com/Sumire-Labs/MrTJPCore-Rescaled/issues)
-
-原版：
-
-- [MrTJPCore](https://github.com/MrTJP/MrTJPCore)
-
-### bdLib Rescaled
-
-**变更内容：**
-
-- 迁移至 Cleanroom / Java 25 + Scala 3
-
-[仓库](https://github.com/Sumire-Labs/bdLib-Rescaled):
-
-- [Issues](https://github.com/Sumire-Labs/bdLib-Rescaled/issues)
-
-原版：
-
-- [bdLib](https://github.com/bdew-minecraft/bdlib)
-
-### AE2Stuff Unofficial Rescaled
-
-**变更内容：**
-
-- 迁移至 Cleanroom / Java 25 + Scala 3
-
-[仓库](https://github.com/Sumire-Labs/AE2Stuff-Unofficial-Rescaled):
-
-- [Issues](https://github.com/Sumire-Labs/AE2Stuff-Unofficial-Rescaled/issues)
-
-原版：
-
-- [AE2 Stuff](https://github.com/bdew-minecraft/ae2stuff)
-
-### AcademyCraft-UES Rescaled
-
-**变更内容：**
-
-- 迁移至 Cleanroom / Java 25 + Scala 3
-
-[仓库](https://github.com/Sumire-Labs/AcademyCraft-UES-Rescaled):
-
-- [Issues](https://github.com/Sumire-Labs/AcademyCraft-UES-Rescaled/issues)
-
-原版：
-
-- [AcademyCraft](https://github.com/LambdaInnovation/AcademyCraft)
+| Mod | 变更内容 | Issues | 原版 |
+| --- | --- | --- | --- |
+| [Additional Enchanted Miner Rescaled](https://github.com/Sumire-Labs/AEM-Rescaled) | 迁移至 Cleanroom / Java 25 + Scala 3<br>迁移至 ModularUI<br>向后移植新功能和错误修复 | [Issues](https://github.com/Sumire-Labs/AEM-Rescaled/issues) | [Additional Enchanted Miner](https://github.com/Kotori316/QuarryPlus) |
+| [CBMultipart Rescaled](https://github.com/Sumire-Labs/CBMultipart-Rescaled) | 迁移至 Cleanroom / Java 25 / Scala 3.x | [Issues](https://github.com/Sumire-Labs/CBMultipart-Rescaled/issues) | [CBMultipart](https://github.com/TheCBProject/CBMultipart) |
+| [Project Red Rescaled](https://github.com/Sumire-Labs/ProjectRed-Rescaled) | 迁移至 Cleanroom / Java 25 + Scala 3<br>整合 Core、Integration、Illumination、Expansion、Fabrication、Exploration、Compat 等各个模块<br>向后移植新功能和错误修复 | [Issues](https://github.com/Sumire-Labs/ProjectRed-Rescaled/issues) | [Project Red](https://github.com/MrTJP/ProjectRed) |
+| [MrTJPCore Rescaled](https://github.com/Sumire-Labs/MrTJPCore-Rescaled) | 迁移至 Cleanroom / Java 25 + Scala 3 | [Issues](https://github.com/Sumire-Labs/MrTJPCore-Rescaled/issues) | [MrTJPCore](https://github.com/MrTJP/MrTJPCore) |
+| [bdLib Rescaled](https://github.com/Sumire-Labs/bdLib-Rescaled) | 迁移至 Cleanroom / Java 25 + Scala 3 | [Issues](https://github.com/Sumire-Labs/bdLib-Rescaled/issues) | [bdLib](https://github.com/bdew-minecraft/bdlib) |
+| [AE2Stuff Unofficial Rescaled](https://github.com/Sumire-Labs/AE2Stuff-Unofficial-Rescaled) | 迁移至 Cleanroom / Java 25 + Scala 3 | [Issues](https://github.com/Sumire-Labs/AE2Stuff-Unofficial-Rescaled/issues) | [AE2 Stuff](https://github.com/bdew-minecraft/ae2stuff) |
+| [AcademyCraft-UES Rescaled](https://github.com/Sumire-Labs/AcademyCraft-UES-Rescaled) | 迁移至 Cleanroom / Java 25 + Scala 3 | [Issues](https://github.com/Sumire-Labs/AcademyCraft-UES-Rescaled/issues) | [AcademyCraft](https://github.com/LambdaInnovation/AcademyCraft) |
 
 ## 许可证
 
