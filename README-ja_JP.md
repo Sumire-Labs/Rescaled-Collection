@@ -1,4 +1,4 @@
-[日本語](README-ja_JP.md) | [English](README-en_US.md) | [한국어](README-ko_KR.md) | [简体中文](README-zh_CN.md)
+[日本語](README-ja_JP.md) | [English](README.md) | [한국어](README-ko_KR.md) | [简体中文](README-zh_CN.md)
 
 # Rescaled Collection
 
