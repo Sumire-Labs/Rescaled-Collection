@@ -1,7 +1,7 @@
 [submodule "Mods/AEM-Rescaled"]
 	path = AEM-Rescaled
 	url = https://github.com/Sumire-Labs/AEM-Rescaled.git
-	branch = 1.12
+	branch = cleanroom
 [submodule "Mods/CBMultipart-Rescaled"]
 	path = CBMultipart-Rescaled
 	url = https://github.com/Sumire-Labs/CBMultipart-Rescaled.git
@@ -9,20 +9,20 @@
 [submodule "Mods/ProjectRed-Rescaled"]
 	path = ProjectRed-Rescaled
 	url = https://github.com/Sumire-Labs/ProjectRed-Rescaled.git
-	branch = 1.12.x
+	branch = cleanroom
 [submodule "Mods/MrTJPCore-Rescaled"]
 	path = MrTJPCore-Rescaled
 	url = https://github.com/Sumire-Labs/MrTJPCore-Rescaled.git
-	branch = 1.12.x
+	branch = cleanroom
 [submodule "Mods/bdLib-Rescaled"]
 	path = bdLib-Rescaled
 	url = https://github.com/Sumire-Labs/bdLib-Rescaled.git
-	branch = mc1.12
+	branch = cleanroom
 [submodule "Mods/AE2Stuff-Unofficial-Rescaled"]
 	path = AE2Stuff-Unofficial-Rescaled
 	url = https://github.com/Sumire-Labs/AE2Stuff-Unofficial-Rescaled.git
-	branch = mc1.12
+	branch = cleanroom
 [submodule "Mods/AcademyCraft-UES-Rescaled"]
 	path = AcademyCraft-UES-Rescaled
 	url = https://github.com/Sumire-Labs/AcademyCraft-UES-Rescaled.git
-	branch = master
+	branch = cleanroom
